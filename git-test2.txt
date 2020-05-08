@@ -1,3 +1,3 @@
 git test2
 Creat a new branch
-kongsheng & Li
+kongsheng AND Li
